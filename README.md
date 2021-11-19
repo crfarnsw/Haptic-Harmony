@@ -8,7 +8,7 @@ Project Summary: The video game market has grown dramatically over the past coup
 Video Description:
 https://www.youtube.com/watch?v=b_cyAXpfpqQ
 
-We integrated Jesse Keogh’s beat mapping algorithm to generate the notes our levels. Much thanks to Jesse Keogh for his excellent in-depth explanation on how to algorithmically map beats using Unity. Without his insight and hard work, the beat mapping portion of the project would not have been possible. 
+We integrated Jesse Keogh’s beat mapping algorithm to generate the notes for our levels. Much thanks to Jesse Keogh for his excellent in-depth explanation on how to algorithmically map beats using Unity. Without his insight and hard work, the beat mapping portion of the project would not have been possible. 
 
 Check out his article here
 https://medium.com/giant-scam/algorithmic-beat-mapping-in-unity-intro-d4c2c25d2f27
